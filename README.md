@@ -1,2 +1,2 @@
 # ResponsiveWebSite
-Web Programming is the responsive website that I worked to improve myself
+Responsive website that I worked on to develop myself on Web Programming.
